@@ -211,7 +211,7 @@ launchctl unload ~/Library/LaunchAgents/com.clawdbot.feishu-bridge.plist
 **Q: 飞书免费版能用吗？**
 可以。自建应用和机器人能力对所有飞书版本开放。
 
-**Q: 能同时接 Telegram / 微信吗？**
+**Q: 能同时接 Telegram 吗？**
 可以。Clawdbot 原生支持 Telegram 等渠道，飞书桥接只是多加一个入口，互不影响。
 ---
 
