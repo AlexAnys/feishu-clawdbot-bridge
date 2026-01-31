@@ -1,6 +1,6 @@
 # feishu-openclaw
 
-> **🆕 2025.1.31 更新**：同步多版本兼容，支持 Clawdbot / OpenClaw / Moltbot
+> **🆕 2025.1.31 更新**：同步多版本兼容，支持 Clawdbot / OpenClaw
 
 飞书 × AI 助手 **独立桥接器** — 无需公网服务器。  
 Feishu × AI Assistant **standalone bridge** — no public server required.
@@ -9,11 +9,11 @@ Feishu × AI Assistant **standalone bridge** — no public server required.
 
 ## 🚀 三种安装方式 / Three Install Methods
 
-| 方式 | 命令 | 适合 |
-|------|------|------|
-| **① Clawdbot 一键安装** | 告诉你的 Clawdbot：`帮我安装飞书插件` | 新手首选，全自动 |
-| **② npm 插件安装** | `clawdbot plugins install moltbot-feishu` | 开发者，一体化管理 |
-| **③ 独立桥接** ⬅️ 本项目 | `git clone` + 手动启动 | 求稳/隔离部署 |
+| 方式 | 命令 | 适合 | 链接 |
+|------|------|------|------|
+| **① Clawdbot 一键** | 告诉 Clawdbot：`帮我安装飞书插件` | 新手首选 | — |
+| **② npm 插件** | `clawdbot plugins install openclaw-feishu` | 开发者 | [npm](https://www.npmjs.com/package/openclaw-feishu) / [GitHub](https://github.com/AlexAnys/openclaw-feishu) |
+| **③ 独立桥接** ⬅️ | `git clone` + 手动启动 | 生产/隔离 | 本项目 |
 
 ### 方式对比 / Comparison
 
@@ -118,7 +118,7 @@ feishu-bridge/
 
 ## 链接 / Links
 
-- 📦 [npm: moltbot-feishu](https://www.npmjs.com/package/moltbot-feishu) (插件)
+- 📦 [npm: openclaw-feishu](https://www.npmjs.com/package/openclaw-feishu) (插件)
 - 🔌 [GitHub: openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) (插件)
 - 🌉 [GitHub: feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) (本项目)
 - 📖 [Clawdbot 文档](https://docs.clawd.bot)
