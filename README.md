@@ -12,7 +12,7 @@ Feishu × AI Assistant **standalone bridge** — no public server required.
 | 方式 | 命令 | 适合 | 链接 |
 |------|------|------|------|
 | **① Clawdbot 一键** | 告诉 Clawdbot：`帮我安装飞书插件` | 新手首选 | — |
-| **② npm 插件** | `clawdbot plugins install openclaw-feishu` | 开发者 | [npm](https://www.npmjs.com/package/openclaw-feishu) / [GitHub](https://github.com/AlexAnys/openclaw-feishu) |
+| **② npm 插件** | `clawdbot plugins install feishu-openclaw` | 开发者 | [npm](https://www.npmjs.com/package/feishu-openclaw) / [GitHub](https://github.com/AlexAnys/feishu-openclaw) |
 | **③ 独立桥接** ⬅️ | `git clone` + 手动启动 | 生产/隔离 | 本项目 |
 
 ### 方式对比 / Comparison
@@ -118,8 +118,8 @@ feishu-bridge/
 
 ## 链接 / Links
 
-- 📦 [npm: openclaw-feishu](https://www.npmjs.com/package/openclaw-feishu) (插件)
-- 🔌 [GitHub: openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) (插件)
+- 📦 [npm: feishu-openclaw](https://www.npmjs.com/package/feishu-openclaw) (插件)
+- 🔌 [GitHub: feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) (插件)
 - 🌉 [GitHub: feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) (本项目)
 - 📖 [Clawdbot 文档](https://docs.clawd.bot)
 
