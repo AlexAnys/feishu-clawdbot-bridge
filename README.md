@@ -1,6 +1,6 @@
 # feishu-openclaw (桥接)
 
-> **🆕 2025.1.31**：同步更新，支持 Clawdbot / OpenClaw
+> **🆕 2025.2.1**：同步更新飞书插件=> [openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu)，适配OpenClaw
 
 飞书 × AI 助手 **独立桥接器** — 无需公网服务器  
 Feishu × AI Assistant **standalone bridge** — no public server required
