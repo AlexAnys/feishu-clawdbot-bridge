@@ -385,6 +385,16 @@ launchctl unload ~/Library/LaunchAgents/com.clawdbot.feishu-bridge.plist
 - 🌉 [GitHub: feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) (本项目)
 - 📖 [Clawdbot 文档](https://docs.clawd.bot)
 
+## 📈 Star History
+
+<a href="https://star-history.com/#AlexAnys/feishu-openclaw&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AlexAnys/feishu-openclaw&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AlexAnys/feishu-openclaw&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AlexAnys/feishu-openclaw&type=Date" />
+ </picture>
+</a>
+
 ## License
 
 MIT
