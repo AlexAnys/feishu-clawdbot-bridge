@@ -16,6 +16,16 @@ Feishu × AI Assistant **standalone bridge** — no public server required
 
 ---
 
+## 🆕 Lark CLI：让 AI Agent 直接操作飞书
+
+飞书官方于 2026-03-28 开源了 [Lark CLI](https://github.com/larksuite/cli)（MIT），一行命令调飞书 2500+ API，覆盖消息、文档、多维表格、日历、邮箱、任务等全量能力，内置 19 个 AI Agent Skills。
+
+**和桥接的关系**：桥接解决"在飞书里和 AI 对话"，Lark CLI 解决"让 AI 主动操作飞书里的一切"——两者互补。
+
+👉 **[Lark CLI 上手指南](docs/lark-cli-guide.md)**
+
+---
+
 ## 你应该用哪个？（插件 vs 独立桥接）
 
 - 想要**最省事、一键安装**：用插件版（OpenClaw/Clawdbot）→ <https://github.com/AlexAnys/openclaw-feishu>
