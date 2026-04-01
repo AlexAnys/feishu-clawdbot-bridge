@@ -4,15 +4,11 @@ Feishu × AI Assistant **standalone bridge** — no public server required
 
 ---
 
-> ### 🚀 新项目：[OpenCrew](https://github.com/AlexAnys/opencrew) — 把你的 OpenClaw 变成一支 AI 团队
+> ### 📚 装好了飞书桥接，然后做什么？
 >
-> 一个 Agent 承担所有事情时，上下文会膨胀、经验会丢失、你会变成瓶颈。
+> 查看 **[OpenClaw 中文用例 & 案例合集](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)** — 46 个经过验证的真实场景，涵盖自动化办公、内容创作、运维、AI 助理、知识管理，新手友好。
 >
-> **OpenCrew 的解法**：多个 Agent 各管各的领域，Slack 频道=岗位，经验自动沉淀，可逆操作无需你确认。
->
-> 3 个 Agent 起步 · 10 分钟部署 · 不用写代码 · 不影响你现有的 OpenClaw
->
-> **[查看 GitHub →](https://github.com/AlexAnys/opencrew)**
+> 飞书 × OpenClaw 的专属用例也在里面 🦞
 
 ---
 
